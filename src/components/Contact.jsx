@@ -6,6 +6,8 @@ const Contact = () => {
       <main>
         <h1>Contact Us</h1>
 
+
+
         <form>
           <div>
             <label>Name</label>
@@ -14,7 +16,7 @@ const Contact = () => {
 
           <div>
             <label>Email</label>
-            <input type="email" required placeholder="Abc@xyz.com" />
+            <input type="email" required placeholder="Abcdef@xyz.com" />
           </div>
           <div>
             <label>Message</label>
